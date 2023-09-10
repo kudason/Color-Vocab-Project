@@ -1,0 +1,31 @@
+/* Change color of text */
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+/* Change color title to normal font */
+.color-title {
+    font-weight: normal;
+}
+
+/* Change img size */
+img {
+    height: 200px;
+    width: 200px;
+}
